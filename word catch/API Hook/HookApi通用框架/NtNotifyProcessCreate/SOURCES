@@ -1,0 +1,5 @@
+TARGETNAME=NtNotifyProcessCreate
+TARGETPATH=.
+TARGETTYPE=DRIVER
+
+SOURCES=NtNotifyProcessCreate.c
